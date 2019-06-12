@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector<int> twoSum(vector<int>& nums, int target) {
+vector<int> TwoSum(vector<int> &nums, int target) {
     map<int, int> dic;
     vector<int> result;
     for (int i = 0; i < nums.size(); i++) {
@@ -19,7 +19,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 int main() {
     vector<int> nums = {2, 7, 11, 15};
     int target = 9;
-    vector<int> result = twoSum(nums, target);
+    vector<int> result = TwoSum(nums, target);
     for (int i : result) {
         cout << i << "\n";
     }
