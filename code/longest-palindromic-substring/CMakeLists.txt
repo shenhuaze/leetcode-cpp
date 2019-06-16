@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(longest_palindromic_substring)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(longest_palindromic_substring longest_palindromic_substring.cpp)
