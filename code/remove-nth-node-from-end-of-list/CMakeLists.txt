@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(remove_nth_node_from_end_of_list)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(remove_nth_node_from_end_of_list remove_nth_node_from_end_of_list.cpp)
