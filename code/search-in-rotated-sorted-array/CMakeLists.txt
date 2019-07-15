@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(search_in_rotated_sorted_array)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(search_in_rotated_sorted_array search_in_rotated_sorted_array.cpp)
