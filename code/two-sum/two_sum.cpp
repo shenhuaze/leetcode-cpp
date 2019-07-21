@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/**
+ * @author Huaze Shen
+ * @date 2019-06-12
+ */
 vector<int> TwoSum(vector<int> &nums, int target) {
     map<int, int> dic;
     vector<int> result;
