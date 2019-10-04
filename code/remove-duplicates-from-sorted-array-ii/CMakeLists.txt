@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(remove_duplicates_from_sorted_array_ii)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(remove_duplicates_from_sorted_array_ii remove_duplicates_from_sorted_array_ii.cpp)
