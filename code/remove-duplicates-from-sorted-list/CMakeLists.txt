@@ -3,4 +3,4 @@ project(remove_duplicates_from_sorted_list)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(remove_duplicates_from_sorted_list remove_duplicates_from_sorted_list_ii.cpp)
+add_executable(remove_duplicates_from_sorted_list remove_duplicates_from_sorted_list.cpp)
