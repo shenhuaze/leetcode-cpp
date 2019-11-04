@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(binary_tree_inorder_traversal)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(binary_tree_inorder_traversal binary_tree_inorder_traversal.cpp)
