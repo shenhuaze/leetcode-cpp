@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(maximum_depth_of_binary_tree)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(maximum_depth_of_binary_tree maximum_depth_of_binary_tree.cpp)
