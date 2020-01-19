@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(binary_tree_level_order_traversal_ii)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(binary_tree_level_order_traversal_ii binary_tree_level_order_traversal_ii.cpp)
