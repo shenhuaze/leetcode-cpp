@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(convert_sorted_list_to_binary_search_tree)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(convert_sorted_list_to_binary_search_tree convert_sorted_list_to_binary_search_tree.cpp)
