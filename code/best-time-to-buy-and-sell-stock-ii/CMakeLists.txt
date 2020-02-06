@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(best_time_to_buy_and_sell_stock_ii)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(best_time_to_buy_and_sell_stock_ii best_time_to_buy_and_sell_stock_ii.cpp)
